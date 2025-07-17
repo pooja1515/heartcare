@@ -15,7 +15,7 @@ st.title("💓 Heart Disease Predictor")
 
 # Sidebar for user input
 st.sidebar.header("🧑 User Info")
-username = st.sidebar.text_input("Enter your name", value="Anonymous")
+username = st.sidebar.text_input("Enter your name")
 
 st.sidebar.header("📊 Input Health Metrics")
 
